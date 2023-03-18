@@ -6,6 +6,9 @@
 
 - Constants
 - Data type casting in python
+	- float * (int - int) -> float
+- Mutability
+	- Seen with the celsius variable
 
 ### Code
 
